@@ -109,7 +109,9 @@ ret
 <img width="1920" height="1200" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/4b45f7ff-e950-47a7-ad33-6ff40e191dd4" />
  
  <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c5eb156d-be95-4a41-a900-19e01571834f" />
+ 
 ### Program for logical operation:
+
 ```
 org 100h
 
