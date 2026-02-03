@@ -111,7 +111,7 @@ ret
  <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c5eb156d-be95-4a41-a900-19e01571834f" />
 ### Program for logical operation:
 ```
- org 100h
+org 100h
 
 MOV AX, 4456H
 MOV BX, 0333H
